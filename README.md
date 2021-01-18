@@ -1,16 +1,20 @@
 # firebase_android
 
-A new Flutter project.
+Have you ever attended an event only to be dissapointed by the catering team?
+This app will resolve the problem by allowing all those who are invented to an event to specify in advance which meal they intend to eat.
+This further allows the catering team to save money,since only listed items are accounted for.
+We will use firebase authentication and cloud firestore to pass the data in and out the entire application.
 
-## Getting Started
+## Contributors
 
-This project is a starting point for a Flutter application.
+Lennox Y Nunu lennoxnunu@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
+### Special thanks to the following developers
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For a detailed explanation on how the state of this app is managed, please refer back to Dane Mackier.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.filledstacks.com/
+
+For a detailed explanation on firebase for flutter. Please refer back to FlutterFire.
+
+https://firebase.flutter.dev/
