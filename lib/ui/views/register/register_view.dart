@@ -52,7 +52,7 @@ class _HookForm extends HookViewModelWidget<RegisterViewModel> {
                 children: <Widget>[
                   SizedBox(height: 10.0),
                   Text(
-                      'Congratulations! You were invited. This application will help you place a meal order in advandce. You may proceed to register.'),
+                      'Congratulations! You were invited. This application will help you place a meal order in advance. You may proceed to register.'),
                   SizedBox(height: 20.0),
                   TextFormField(
                     decoration: textInputDecoration.copyWith(hintText: 'email'),
