@@ -5,6 +5,8 @@ This app will resolve the problem by allowing all those who are invented to an e
 This further allows the catering team to save money,since only listed items are accounted for.
 We will use firebase authentication and cloud firestore to pass the data in and out the entire application.
 
+![firebase_android](https://user-images.githubusercontent.com/68849219/105006746-bae5e480-5a3f-11eb-9443-3e4407b1f4d0.gif)
+
 ## Contributors
 
 Lennox Y Nunu lennoxnunu@gmail.com
